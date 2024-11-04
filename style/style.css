@@ -249,3 +249,11 @@ footer {
 .contact-container a {
   color: var(--optional-color);
 }
+
+.here-link {
+  color: var(--optional-color);
+}
+
+.here-link:hover {
+  color: #f1e0d9;
+}
